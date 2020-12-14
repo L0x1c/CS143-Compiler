@@ -26,5 +26,5 @@ I can help you 这句话是由4个单词组成的一句话，我们能很容易�
 `X=Y*0` is the same as `X=0`，但是我们不可以直接这么替换，我必须要知道他们都是int，才可以，因为如果是float，其中有一个数值叫做not a number -> NaN，`NaN * 0 = NaN`，所以如果这种情况的时候进行优化程序会崩溃  
 - Code Generation
 code gen 可以生成汇编代码，这是很多编译器都会产生的东西，也就是相当于把一种语言翻译成另一种语言  
-##The Economy of Programming Languages
+## The Economy of Programming Languages
 大概讲了一下编程语言为什么要有，编译器为什么要有（有点类似于 告诉我们有编译器和编程语言的好处）这节课没讲什么！
